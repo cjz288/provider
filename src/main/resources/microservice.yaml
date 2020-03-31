@@ -1,0 +1,29 @@
+APPLICATION_ID : Demo-for-microservice
+service_description:
+  name: provider # 微服务名称，同应用下的不同微服务需要有不同的名称
+  version: 0.0.1 # 微服务版本号
+cse:
+  service: # 服务中心信息，其中 address 为服务中心地址
+    registry:
+      address: https://cse.cn-north-4.myhuaweicloud.com
+      instance:
+        watch: false # 使用 pull 模式连接服务中心
+  config: # 配置中心信息，其中 address 为配置中心地址
+    client:
+      serverUri: https://cse.cn-north-4.myhuaweicloud.com
+      refreshMode: 1
+      refresh_interval: 5000
+  monitor: # 只有从本地接入云上 CSE 时需要配置 monitor 地址，云上集群部署时可以通过服务发现接入 monitor
+    client:
+      serverUri: https://cse.cn-north-4.myhuaweicloud.com
+  rest:
+    address: 0.0.0.0:8080 # 微服务端口，请确保该端口号无冲突
+  #本地连接华为云时需要配置 AK/SK，如果是在云上 ServiceStage 部署则不需要。直接删掉credentials 配置即可
+  accesslog:
+    enabled: true
+  pattern: "%h - - %t cs-uri %s %B %D %SCB-traceId"
+  credentials:
+   accessKey: BKYDMGVH0LY9WCSSZCNG # 请填写 AK
+   secretKey: 6pVoI7VQtfrTWJPhFCD7t1gwWW8uDKVRj5f7MZ5P # 请填写 SK
+   project: cn-north-4 # 这里的值与 sc/cc/monitor 的地址相对应，如果配置的是域名，  CSEJavaSDK 可以自动截取出 project
+akskCustomCipher: default

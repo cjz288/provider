@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="67cd1cb6-1477-4b30-a00e-9d7553984c6a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="D:\Program Files\JetBrains\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZpyCAYQze34pJXRKzcG7uenuN9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../consumer" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="ProviderMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="helloworld.demo.provider.ProviderMain" />
+      <module name="provider" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="helloworld.demo.provider.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ProviderMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="67cd1cb6-1477-4b30-a00e-9d7553984c6a" name="Default Changelist" comment="" />
+      <created>1585550199391</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585550199391</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="75" key="#Project_Structure" timestamp="1585626205872">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="75" key="#Project_Structure/0.0.1536.834/-1920.0.1920.1080@0.0.1536.834" timestamp="1585626205872" />
+    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1585625644516">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834/-1920.0.1920.1080@0.0.1536.834" timestamp="1585625644516" />
+    <state width="656" height="245" key="GridCell.Tab.0.bottom" timestamp="1585635125249">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="656" height="245" key="GridCell.Tab.0.bottom/0.0.1536.834/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1585635125249" />
+    <state width="1493" height="98" key="GridCell.Tab.0.bottom/0.0.1536.834/-1920.0.1920.1080@0.0.1536.834" timestamp="1585570978735" />
+    <state width="656" height="245" key="GridCell.Tab.0.center" timestamp="1585635125249">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="656" height="245" key="GridCell.Tab.0.center/0.0.1536.834/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1585635125249" />
+    <state width="1493" height="98" key="GridCell.Tab.0.center/0.0.1536.834/-1920.0.1920.1080@0.0.1536.834" timestamp="1585570978735" />
+    <state width="656" height="245" key="GridCell.Tab.0.left" timestamp="1585635125248">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="656" height="245" key="GridCell.Tab.0.left/0.0.1536.834/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1585635125248" />
+    <state width="1493" height="98" key="GridCell.Tab.0.left/0.0.1536.834/-1920.0.1920.1080@0.0.1536.834" timestamp="1585570978735" />
+    <state width="656" height="245" key="GridCell.Tab.0.right" timestamp="1585635125249">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="656" height="245" key="GridCell.Tab.0.right/0.0.1536.834/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1585635125249" />
+    <state width="1493" height="98" key="GridCell.Tab.0.right/0.0.1536.834/-1920.0.1920.1080@0.0.1536.834" timestamp="1585570978735" />
+    <state width="948" height="265" key="GridCell.Tab.1.bottom" timestamp="1585566615812">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="948" height="265" key="GridCell.Tab.1.bottom/0.0.1536.834/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1585566615812" />
+    <state width="948" height="265" key="GridCell.Tab.1.center" timestamp="1585566615812">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="948" height="265" key="GridCell.Tab.1.center/0.0.1536.834/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1585566615812" />
+    <state width="948" height="265" key="GridCell.Tab.1.left" timestamp="1585566615812">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="948" height="265" key="GridCell.Tab.1.left/0.0.1536.834/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1585566615812" />
+    <state width="948" height="265" key="GridCell.Tab.1.right" timestamp="1585566615812">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="948" height="265" key="GridCell.Tab.1.right/0.0.1536.834/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1585566615812" />
+    <state x="270" y="59" key="SettingsEditor" timestamp="1585566729899">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="270" y="59" key="SettingsEditor/0.0.1536.834/-1920.0.1920.1080@0.0.1536.834" timestamp="1585566729899" />
+    <state x="-1287" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1585615770319">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1287" y="343" key="com.intellij.ide.util.TipDialog/0.0.1536.834/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1585615770319" />
+    <state x="254" y="160" key="new project wizard" timestamp="1585566782363">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="254" y="160" key="new project wizard/0.0.1536.834/-1920.0.1920.1080@0.0.1536.834" timestamp="1585566782363" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/provider$ProviderMain.ic" NAME="ProviderMain Coverage Results" MODIFIED="1585563170565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>helloworld.demo.provider.*</FILTER>
+    </SUITE>
+  </component>
+</project>
